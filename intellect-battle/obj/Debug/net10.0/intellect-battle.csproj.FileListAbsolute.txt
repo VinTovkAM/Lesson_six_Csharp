@@ -12,3 +12,4 @@ C:\Users\DmitryPC\Documents\Projects\Programming\C#\C# 6\intellect-battle\obj\De
 C:\Users\DmitryPC\Documents\Projects\Programming\C#\C# 6\intellect-battle\obj\Debug\net10.0\intellect-battle.pdb
 C:\Users\DmitryPC\Documents\Projects\Programming\C#\C# 6\intellect-battle\obj\Debug\net10.0\intellect-battle.genruntimeconfig.cache
 C:\Users\DmitryPC\Documents\Projects\Programming\C#\C# 6\intellect-battle\obj\Debug\net10.0\ref\intellect-battle.dll
+C:\Users\DmitryPC\Documents\Projects\Programming\C#\C# 6\intellect-battle\obj\Debug\net10.0\intellect-battle.sourcelink.json

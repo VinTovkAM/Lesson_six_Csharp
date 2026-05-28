@@ -87,3 +87,17 @@ else
 
 int scorePlayerTwo = CheckAnswers(playerAnswers, correctAnswersPlayerTwo);
 Console.WriteLine($"Результат второго игрока: {scorePlayerTwo} очков\n");
+Console.WriteLine("Результаты игры");
+
+if (scorePlayerOne > scorePlayerTwo)
+{
+    Console.WriteLine("Игрок 1 победил!");
+}
+else if (scorePlayerOne < scorePlayerTwo)
+{
+    Console.WriteLine("Игрок 2 победил!");
+}
+else
+{
+    Console.WriteLine("Ничья!");
+}
