@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "intellect-battle/1.0.0": {
+        "runtime": {
+          "intellect-battle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "intellect-battle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
